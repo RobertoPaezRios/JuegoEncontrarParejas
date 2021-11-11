@@ -1,0 +1,10 @@
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\bin\Debug\JuegoJugadoresFutbol.exe.config
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\bin\Debug\JuegoJugadoresFutbol.exe
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\bin\Debug\JuegoJugadoresFutbol.pdb
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\obj\Debug\JuegoJugadoresFutbol.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\obj\Debug\JuegoJugadoresFutbol.Form1.resources
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\obj\Debug\JuegoJugadoresFutbol.Properties.Resources.resources
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\obj\Debug\JuegoJugadoresFutbol.csproj.GenerateResource.cache
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\obj\Debug\JuegoJugadoresFutbol.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\obj\Debug\JuegoJugadoresFutbol.exe
+C:\Users\Rodrigo\source\repos\JuegoJugadoresFutbol\JuegoJugadoresFutbol\obj\Debug\JuegoJugadoresFutbol.pdb
